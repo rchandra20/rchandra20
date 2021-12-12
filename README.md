@@ -1,7 +1,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring web development and open source projects 
-- 🎓 &nbsp; Studying Computer Science at the University of Michigan
+- 🎓 &nbsp; Studying for a B.S.E. in Computer Science at the University of Michigan
 - 💼 &nbsp; Looking for software development internships for the summer of 2022
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms
 

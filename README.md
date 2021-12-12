@@ -1,5 +1,3 @@
-<h2> Greetings! I'm Rishiraj Chandra.</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring web development and open source projects 

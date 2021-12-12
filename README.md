@@ -27,7 +27,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="www.linkedin.com/in/rishiraj-c"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishiraj%20Chandra-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rishiraj-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishiraj%20Chandra-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:rajchan@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-rajchan@umich.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 

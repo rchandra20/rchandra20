@@ -31,7 +31,6 @@
 <a href="mailto:rajchan@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-rajchan@umich.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [rchandra20](https://github.com/rchandra20)
 <!---
 rchandra20/rchandra20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

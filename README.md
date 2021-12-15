@@ -7,7 +7,7 @@
 - 💼 &nbsp; Looking for software development internships for the summer of 2022
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tools & Languages</h3>
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)

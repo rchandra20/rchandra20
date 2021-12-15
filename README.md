@@ -4,7 +4,7 @@
 
 - 😃 &nbsp; Exploring web development and open source contribution
 - 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
-- 💼 &nbsp; Looking for software development internships for the summer of 2022
+- 💼 &nbsp; Looking for a software development internship for the summer of 2022
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms
 
 <h3> 🛠 &nbsp;Tools & Languages</h3>

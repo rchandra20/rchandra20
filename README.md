@@ -1,4 +1,4 @@
-<h3> 👋 Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
+<h3> 👋 Hey There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 

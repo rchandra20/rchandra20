@@ -16,6 +16,7 @@
 - 💿 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=gnubash)
+  ![Emacs](https://img.shields.io/badge/-GNU%20Emacs-333333?style=flat&logo=gnubash)
 - 🌐 &nbsp;
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?logo=wordpress&style=flat)
   ![cPanel](https://img.shields.io/badge/-cPanel-333333?logo=cpanel&style=flat)

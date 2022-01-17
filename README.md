@@ -5,7 +5,7 @@
 - 😃 &nbsp; Exploring full stack web development and open source contribution 
 - 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
 - 💼 &nbsp; Looking for a software development internship for the summer of 2022 
-- 🌱 &nbsp; Refining my programming skills through HackerRank and LeetCode <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 &nbsp; Refining my programming skills through <a href="https://www.hackerrank.com/rajchan/"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Rishiraj%20Chandra-blue?style=flat-square&logo=linkedin"></a> and LeetCode https://leetcode.com/rajchan/ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <h3> 🛠 &nbsp;Tools & Languages</h3>
 
@@ -33,7 +33,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rishiraj-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishiraj%20Chandra-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rishiraj-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishiraj%20Chandra-blue?style=flat-square&logo=linkedin"></a> 
 <a href="mailto:rajchan@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-rajchan@umich.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 

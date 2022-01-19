@@ -12,6 +12,9 @@
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?stlye=flat&logo=matlab)
 - 💿 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)

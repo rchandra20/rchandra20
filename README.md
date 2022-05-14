@@ -6,7 +6,7 @@
 - 😃 &nbsp; Exploring backend software development and open source contribution <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
 - 💼 &nbsp; Interning at the University of Michigan Information & Technology Services for the Summer of 2022
-- 🌱 &nbsp; Refining my programming skills through <a href="https://www.hackerrank.com/rajchan/"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-rajchan-blue?style=flat-square&logo=hackerrank"></a> and <a href="https://leetcode.com/rajchan/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-rajchan-blue?style=flat-square&logo=leetcode"></a> 
+- 🌱 &nbsp; Contributing to various open source projects 
 
 <h3> 🛠 &nbsp;Tools & Languages</h3>
 

@@ -6,7 +6,6 @@
 - 😃 &nbsp; Exploring backend software development and open source contribution <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
 - 💼 &nbsp; Interning at University of Michigan Information & Technology Services for the Summer of 2022
-- 🌱 &nbsp; Contributing to various open source projects 
 
 <h3> 🛠 &nbsp;Tools & Languages</h3>
 

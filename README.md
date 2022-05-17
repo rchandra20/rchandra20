@@ -30,8 +30,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![CLion](https://img.shields.io/badge/-CLion-333333?style=flat&logo=clion)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?logo=pycharm&style=flat)
+  
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

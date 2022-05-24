@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
 - 💼 &nbsp; Interning at University of Michigan Information & Technology Services for the Summer of 2022
 
-<h3> 🛠 &nbsp;Tools & Languages</h3>
+<h3> 🛠 &nbsp;Technologies </h3>
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)

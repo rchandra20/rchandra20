@@ -1,4 +1,4 @@
-<h3> <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> Hey There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
+Hey There!
               
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>

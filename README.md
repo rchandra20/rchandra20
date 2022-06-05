@@ -14,6 +14,11 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 💿 &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=dockerlogoColor=00599C)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kuberneteslogoColor=00599C)
+  ![OpenShift](https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-333333?style=flat&logo=red-hat-open-shift&logoColor=00599C)
+
+- 💿 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=gnubash)
 - 🌐 &nbsp;

@@ -9,11 +9,11 @@
 
 <h3> 🛠 &nbsp;Technologies </h3>
 
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- :computer: &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🛢 &nbsp;
+- :cloud: &nbsp; <i class="ri-cloud-line"></i>
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=00599C)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=00599C)
   ![OpenShift](https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-333333?style=flat&logo=red-hat-open-shift&logoColor=00599C)

@@ -22,6 +22,7 @@
   ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 - 💿 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=gnubash)

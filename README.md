@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 😃 &nbsp; Backend developer and open source enthusiast
+- 😃 &nbsp; Fullstack developer and open source enthusiast
 - 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
 - 💼 &nbsp; Interning at University of Michigan Information & Technology Services for the Summer of 2022
 

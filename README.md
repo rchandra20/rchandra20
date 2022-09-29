@@ -13,11 +13,6 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B) 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- :cloud: &nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-  ![OpenShift](https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-333333?style=flat&logo=red-hat-open-shift)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon%20aws)
 - 📊 &nbsp;
   ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)

@@ -5,7 +5,7 @@
 
 - 😃 &nbsp; Software developer and open source enthusiast
 - 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
-- 💼 &nbsp; Looking for a software development internship for the Summer of 2023 
+- 💼 &nbsp; Interning at Amazon Web Services for the Summer of 2023 
 
 <h3> 🛠 &nbsp;Technologies </h3>
 

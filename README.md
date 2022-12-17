@@ -23,7 +23,7 @@
 - 💿 DevOps &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible&logoColor=EE0000)
-  ![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=gnubash)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
 - 🌐 Web &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)

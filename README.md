@@ -40,6 +40,8 @@
  - 📊 Analytics &nbsp;
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel&logoColor=217346)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+ - ☁️ Cloud &nbsp;
+    ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
  
   
   
@@ -48,7 +50,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rishiraj-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishiraj%20Chandra-blue?style=flat-square&logo=linkedin"></a> 
-<a href="mailto:rajchan@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-rajchan@umich.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://rchandra20.github.io/personal-portfolio"><img alt="Personal Website" src="https://img.shields.io/badge/GitHub%20Pages-Rishiraj%20Chandra-black?style=flat-square&logo=githubpages"></a> 
+<a href="mailto:rajchan@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-rajchan@umich.edu-red?style=flat-square&logo=gmail"></a>
 </p>
 
 <p align="center">

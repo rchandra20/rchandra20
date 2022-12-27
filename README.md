@@ -21,6 +21,10 @@
   ![Cypher](https://img.shields.io/badge/-Cypher-333333?style=flat&logo=cypher)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 💿 DevOps &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible&logoColor=EE0000)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
@@ -32,11 +36,6 @@
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?logo=wordpress&style=flat&logoColor=21759B)
   ![cPanel](https://img.shields.io/badge/-cPanel-333333?logo=cpanel&style=flat)
   ![GoDaddy](https://img.shields.io/badge/-GoDaddy-333333?logo=godaddy&style=flat)
-- ⚙️ Development &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
  - 📊 Analytics &nbsp;
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel&logoColor=217346)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)

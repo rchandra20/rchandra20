@@ -16,7 +16,7 @@
   ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=julia)
 - 💾 Database &nbsp;
   ![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
-  ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQl%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
+  ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
   ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
   ![Cypher](https://img.shields.io/badge/-Cypher-333333?style=flat&logo=cypher)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)

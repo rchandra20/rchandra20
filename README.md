@@ -14,11 +14,10 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 - 💾 Database &nbsp;
-  ![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
+  ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-333333?style=flat&logo=microsoftaccess&logoColor=A4373A)
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
   ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
-  ![Cypher](https://img.shields.io/badge/-Cypher-333333?style=flat&logo=cypher)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 💿 DevOps &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
@@ -44,9 +43,6 @@
  - ☁️ Cloud &nbsp;
     ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
  
-  
-  
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">

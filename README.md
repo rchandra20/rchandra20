@@ -10,10 +10,9 @@
 <h3> 🛠 &nbsp;Technologies </h3>
 
 - :computer: Programming
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=julia)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 - 💾 Database &nbsp;
   ![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
@@ -28,14 +27,18 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible&logoColor=EE0000)
 - 🌐 Web &nbsp;
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![Jinja](https://img.shields.io/badge/-Jinja-333333?style=flat&logo=jinja)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?logo=wordpress&style=flat&logoColor=21759B)
   ![cPanel](https://img.shields.io/badge/-cPanel-333333?logo=cpanel&style=flat)
-  ![GoDaddy](https://img.shields.io/badge/-GoDaddy-333333?logo=godaddy&style=flat)
  - 📊 Analytics &nbsp;
+  ![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel&logoColor=217346)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
  - ☁️ Cloud &nbsp;

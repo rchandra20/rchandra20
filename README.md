@@ -41,7 +41,8 @@
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel&logoColor=217346)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
  - ☁️ Cloud &nbsp;
-    ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+    ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-333333?style=flat&logo=amazonec2)
+    ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=amazons3)
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

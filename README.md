@@ -37,7 +37,7 @@
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?logo=wordpress&style=flat&logoColor=21759B)
   ![cPanel](https://img.shields.io/badge/-cPanel-333333?logo=cpanel&style=flat)
  - 📊 Analytics &nbsp;
-  ![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks)
+  ![Aazure Databricks](https://img.shields.io/badge/-Azure%20Databricks-333333?style=flat&logo=databricks)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel&logoColor=217346)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
  - ☁️ Cloud &nbsp;

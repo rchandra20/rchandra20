@@ -31,7 +31,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![Jinja](https://img.shields.io/badge/-Jinja-333333?style=flat&logo=jinja)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?logo=wordpress&style=flat&logoColor=21759B)

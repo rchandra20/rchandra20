@@ -45,9 +45,13 @@
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/rishiraj-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishiraj%20Chandra-blue?style=flat-square&logo=linkedin"></a> 
-<a href="https://rchandra20.github.io/personal-portfolio"><img alt="Personal Website" src="https://img.shields.io/badge/GitHub%20Pages-Rishiraj%20Chandra-black?style=flat-square&logo=githubpages"></a> 
+<p>
+<a href="https://www.linkedin.com/in/rishiraj-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue?style=flat-square&logo=linkedin"></a> 
+</p>
+<p>
+<a href="https://rchandra20.github.io/personal-portfolio"><img alt="Personal Website" src="https://img.shields.io/badge/GitHub%20Pages-Personal%20Website-black?style=flat-square&logo=githubpages"></a> 
+</p>
+<p>
 <a href="mailto:rajchan@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-rajchan@umich.edu-red?style=flat-square&logo=gmail"></a>
 </p>
 

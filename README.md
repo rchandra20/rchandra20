@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 😃 &nbsp; Software developer and IT automation enthusiast
+- 😃 &nbsp; Software developer and cloud enthusiast
 - 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
 - 💼 &nbsp; Interning at Amazon Web Services for the Summer of 2023
 

@@ -9,7 +9,7 @@
 
 <h3> 🛠 &nbsp;Technologies </h3>
 
-- :computer: Programming
+- :computer: Languages
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)

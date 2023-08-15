@@ -15,16 +15,12 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-- 💾 Database &nbsp;
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
-  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon-dynamodb&logoColor=4053D6)
-  ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
-- 💿 DevOps &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible&logoColor=EE0000)
+ - ☁️ Cloud &nbsp;
+ ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-333333?style=flat&logo=amazonec2)
+ ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=amazons3)
+ ![API Gateway](https://img.shields.io/badge/-API%20Gateway-333333?style=flat&logo=amazon-api-gateway)
+ ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-333333?style=flat&logo=aws-amplify)
+ ![Lambda](https://img.shields.io/badge/-Lambda-333333?style=flat&logo=aws-lambda)
 - 🌐 Web &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
@@ -36,16 +32,21 @@
   ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?logo=wordpress&style=flat&logoColor=21759B)
   ![cPanel](https://img.shields.io/badge/-cPanel-333333?logo=cpanel&style=flat)
+- 💾 Database &nbsp;
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon-dynamodb&logoColor=4053D6)
+  ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
+- 💿 DevOps &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible&logoColor=EE0000)
  - 📊 Analytics &nbsp;
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel&logoColor=217346)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
- - ☁️ Cloud &nbsp;
- ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-333333?style=flat&logo=amazonec2)
- ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=amazons3)
- ![API Gateway](https://img.shields.io/badge/-API%20Gateway-333333?style=flat&logo=amazon-api-gateway)
- ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-333333?style=flat&logo=aws-amplify)
- ![Lambda](https://img.shields.io/badge/-Lambda-333333?style=flat&logo=aws-lambda)
+
    
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

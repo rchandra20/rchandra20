@@ -5,7 +5,7 @@
 
 - 😃 &nbsp; Software developer and cloud enthusiast
 - 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
-- 💼 &nbsp; Looking for an internship for the Summer of 2024
+- 💼 &nbsp; Looking for a 2024 summer internship
 
 <h3> 🛠 &nbsp;Technologies </h3>
 

@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 😃 &nbsp; Software developer and cloud enthusiast
-- 🎓 &nbsp; Obtaining a B.S.E. in Computer Science at the University of Michigan
+- 🎓 &nbsp; Obtaining a Bachelors in Computer Science at the University of Michigan
 - 💼 &nbsp; Looking for a 2024 summer internship
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

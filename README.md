@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 😃 &nbsp; Software developer and AWS cloud enthusiast
-- 🎓 &nbsp; Bachelors in Computer Science from the University of Michigan
-- 💼 &nbsp; Associate Solutions Architect at AWS
+- 🎓 &nbsp; B.S.E. in CS from University of Michigan
+- 💼 &nbsp; Assoc. Solutions Architect at AWS
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

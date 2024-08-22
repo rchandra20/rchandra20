@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ☁️ &nbsp; Software developer and AWS cloud builder
+- ☁️ &nbsp; AWS Cloud Builder
 - 🎓 &nbsp; B.S.E. in CS from University of Michigan
 - 💼 &nbsp; Assoc. Solutions Architect at AWS
  

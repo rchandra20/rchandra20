@@ -5,7 +5,7 @@
 
 - ☁️ &nbsp; AWS Cloud Builder
 - 🎓 &nbsp; B.S.E. in CS from University of Michigan
-- 💼 &nbsp; Assoc. Solutions Architect at AWS
+- 💼 &nbsp; Solutions Architect at AWS
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

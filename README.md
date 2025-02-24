@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ☁️ &nbsp; AWS Cloud Builder
-- 🎓 &nbsp; B.S.E. in CS from University of Michigan
+- 🎓 &nbsp; Bachelor's in Computer Science from University of Michigan
 - 💼 &nbsp; Solutions Architect at AWS
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

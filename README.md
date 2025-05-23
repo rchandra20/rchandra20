@@ -10,7 +10,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://www.linkedin.com/in/rishiraj-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue?style=flat-square&logo=linkedin"></a> 
+<a href="https://www.linkedin.com/in/rishiraj-c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue?style=flat-square&logo=linkedin"></a>
+  
 <a href="mailto:rajchan@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-rajchan@umich.edu-red?style=flat-square&logo=gmail"></a>
 </p>
 

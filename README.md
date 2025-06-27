@@ -3,7 +3,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ☁️ &nbsp; AI/ML + AWS Cloud Builder
 - 🎓 &nbsp; B.S.E. in Computer Science from University of Michigan
 - 💼 &nbsp; AI/ML Specialist Solutions Architect @ AWS
  

@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; B.S. in Computer Science from University of Michigan
-- 💼 &nbsp; AI/ML Specialist Solutions Architect @ AWS
+- 💼 &nbsp; Software Engineer @ Stealth
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

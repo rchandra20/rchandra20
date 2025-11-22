@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; B.S. in Computer Science from University of Michigan
-- 💼 &nbsp; Software Engineer @ Stealth
+- 🎓 &nbsp; BS CS UM
+- 💼 &nbsp; Software Engineer @ Stealth AI Startup
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

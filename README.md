@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; BS CS UM
-- 💼 &nbsp; Software Engineer @ Stealth AI Startup
+- 💼 &nbsp; Software Engineer
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

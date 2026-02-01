@@ -3,8 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 💼 &nbsp; Software Engineer: AI + Backend
 - 🎓 &nbsp; BS CS UM
-- 💼 &nbsp; Software Engineer
+
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

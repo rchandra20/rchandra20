@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Software Engineer: Applied AI
+- 💼 &nbsp; Software Engineer: Applied AI, Cybersecurity, Cloud
 - 👨‍💻 &nbsp; Open Source Enthusiast
 - 🎓 &nbsp; BS CS UM
 
